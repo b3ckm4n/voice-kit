@@ -25,6 +25,8 @@
 - Does the result sound like me? What is the evidence?
 - Where did the AI help me think?
 - Where did the AI think for me?
+- Which passages did I compose or dictate, and which did I adopt from the model?
+- What writing choices did I practice? What evidence of improvement, if any, do I have?
 
 ## Friction check
 
