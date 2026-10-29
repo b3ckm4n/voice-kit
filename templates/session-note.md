@@ -10,6 +10,7 @@
 - What did I already know or believe?
 - What material did I bring?
 - What was blocked or unclear?
+- What did I want to publish, understand, or practice in this session?
 
 ## What changed
 
@@ -27,6 +28,7 @@
 - Where did the AI think for me?
 - Which passages did I compose or dictate, and which did I adopt from the model?
 - What writing choices did I practice? What evidence of improvement, if any, do I have?
+- What concrete sign of progress did I choose? Was it observed, self-reported, or left untested?
 
 ## Friction check
 

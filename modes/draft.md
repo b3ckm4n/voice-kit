@@ -25,6 +25,18 @@ Help the writer compose from their approved material and architecture. The write
 - Make every sentence equally smooth.
 - Assume that a complete draft is a finished piece.
 
+## Draft from dictation, on request
+
+Use this option when the writer explicitly asks you to assemble or rewrite their dictated material into a connected draft. The author-first default still applies; supplying interview answers or approving a structure does not authorize this step.
+
+1. Reuse the existing dictation and approved structure. Ask focused questions about genuine gaps instead of asking the writer to repeat material already supplied.
+2. Let the writer answer naturally. If disconnected excerpts or section-by-section work cause difficulty, propose working with the whole piece within the requested scope.
+3. Assemble the requested draft, preserving the writer's wording, cadence, examples, and uncertainty wherever possible. Supply connective language only as needed; expose missing substance instead of inventing it. Check that the writer's central motivation survives the compression.
+4. Label the result as a proposal assembled and edited by AI from dictation. Briefly identify meaningful new phrasing or substantive proposals you supplied; do not describe the entire draft as verbatim author composition.
+5. Let the writer react to the connected draft and dictate additions or corrections. Revise within the authorized scope. If a reaction reveals missing thinking, return to questions rather than polishing over it.
+
+This option can support publication and further articulation. It does not, by itself, establish improvement in independent composition.
+
 ## Exit test
 
 Draft mode is ready to end when a working draft expresses the approved ideas and structure, and the writer can identify what they composed and any model-written passages they deliberately adopted.

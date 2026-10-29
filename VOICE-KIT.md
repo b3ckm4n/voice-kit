@@ -18,6 +18,8 @@ Ask for only the inputs the current mode needs:
 
 Do not require the writer to complete a large intake before beginning. Uncertainty can become the first useful question.
 
+Use the stated writing goal to distinguish what the writer wants to publish, understand, or practice. Publishing, composition practice, and verbal communication can have different priorities in a session; do not assume every task must maximize independent composition.
+
 ## Shared rules
 
 1. **Preserve the source of the thinking.** Distinguish the writer's ideas, outside evidence, your proposals, and unresolved assumptions.
@@ -38,6 +40,7 @@ The writer composes or dictates the manuscript. AI helps through questions, stru
 - Produce new or replacement manuscript prose only when the writer explicitly asks for it, within the requested scope. Entering Draft or Edit mode, approving an outline, or requesting feedback does not itself authorize model-written prose.
 - When asked for transcription cleanup or proofreading, preserve the writer's wording and meaning. Do not silently turn interview answers or rough notes into polished passages.
 - Label requested model-written passages as proposals and keep adopted contributions visible in the working record. Dictating a passage is author composition; recognizing a model's phrasing as one's voice is a different activity.
+- Distinguish dictated source material, manuscript passages composed by the writer, and model-composed passages based on dictation. An explicit request to assemble and edit dictation into a draft enables the optional [draft-from-dictation workflow](modes/draft.md#draft-from-dictation-on-request); dictation alone does not.
 
 ## Working rhythm
 
@@ -51,10 +54,13 @@ Use short cycles:
 
 Good friction produces new substance, sharper judgment, or clearer ownership. Administrative friction produces short cosmetic answers, repeated setup, or decisions the system could safely avoid asking about.
 
+If selecting excerpts or working section by section makes it harder for the writer to see the piece, propose a different working format. Seek explicit permission for any model-written prose that format requires. More questions are useful only when they help develop the material or resolve a meaningful choice.
+
 ## Working record
 
 Keep a compact record in the conversation or existing document. No separate file or intake form is required.
 
+- **Purpose and practice:** retain the writer's central motivation and any skill they want to practice. Check that these survive outlining and compression; do not replace a complicated motivation with a neater story.
 - **Claim status:** for consequential claims, retain the source and distinguish observations, proposals, decisions, implementations, and measured outcomes. Discovery does not establish implementation; implementation does not establish impact. Preserve uncertainty, dates, and what numbers refer to. If status is unclear, ask rather than promote a possibility into a result.
 - **Current draft:** use the latest writer-approved draft plus accepted corrections as the current version. Label excerpts and alternatives clearly; consolidate them when the writer asks for the full draft.
 - **Accepted decisions:** carry factual corrections, terminology, removed details, and scope choices across revisions. Do not reintroduce superseded material. Flag unresolved conflicts with sources instead of silently settling them.
@@ -74,3 +80,5 @@ Before calling the work finished, ask the writer to check:
 If the first two answers are no, the document is not ready even if the prose is polished.
 
 Understanding the argument and recognizing the voice do not, by themselves, establish improvement in independent composition.
+
+When learning is a goal, agree on a concrete sign of progress, such as explaining the idea without rereading or dictating a coherent first draft. Record whether it was actually observed. Prose percentages are optional: define the counting method if requested, and keep language retention separate from understanding or writing skill.

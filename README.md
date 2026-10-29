@@ -60,6 +60,8 @@ These are two completed AI-assisted writing tasks by one writer. The writer init
 
 The essays do not demonstrate improvement in independent composition or validate the author-first default introduced in response to this limitation. Measured improvement in understanding, comparative effectiveness, and use by other writers remain open.
 
+A subsequent [usage note](examples/process-note.md) records writing a public reflection on authorship. Working through disconnected excerpts stalled; the writer explicitly requested a connected draft from their dictation, then supplied further material and directed revisions. This informed the optional [draft-from-dictation workflow](modes/draft.md#draft-from-dictation-on-request). It adds an example of adapting the process for the same writer, without establishing improved writing skill.
+
 ## What useful feedback looks like
 
 If you try the kit, the most useful evidence is not whether the prose sounded polished. It is whether:
